@@ -1,4 +1,4 @@
-module publisher::my_super_easy_module {
+module publisher::my_super_easy_module_copy {
     use std::signer;
     use std::string::{Self, String};
     use std::debug;
